@@ -1,5 +1,5 @@
 {
-    "name": "tymon/jwt-auth",
+    "name": "mark-biro-airalo/tymon-jwt-auth",
     "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "auth",
@@ -28,7 +28,7 @@
         "illuminate/contracts": "^9.0|^10.0|^11.0|^12.0",
         "illuminate/http": "^9.0|^10.0|^11.0|^12.0",
         "illuminate/support": "^9.0|^10.0|^11.0|^12.0",
-        "lcobucci/jwt": "^4.0",
+        "lcobucci/jwt": "^4.0|^5.0",
         "nesbot/carbon": "^2.69|^3.0"
     },
     "require-dev": {
